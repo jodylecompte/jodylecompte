@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Blog Posts
+
+I'd love for you to check out my latest blog posts. I'm super passionate about all things tech, and I enjoy
+writing about various topics such as software and web development, accessibility, machine learning, and even
+game development. Feel free to dive into my recent posts and join me on this exciting journey into the world
+of technology. Can't wait to hear what you think!
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
