@@ -33,6 +33,6 @@ of technology. Can't wait to hear what you think!
 
 ## Certifications
 
-[Apollo Graph Developer - Associate](https://www.apollographql.com/tutorials/certifications/53a3ba05-748c-4cf3-a8db-1b15fd3676c9)
-[Apollo Graph Developer - Professional](https://www.apollographql.com/tutorials/certifications/5d21cdec-260c-4049-810e-aa13ed6a8655)
-[FreeCodeCamp - Relational Database Certification](https://www.freecodecamp.org/certification/jlecompte/relational-database-v8)
+- [Apollo Graph Developer - Associate](https://www.apollographql.com/tutorials/certifications/53a3ba05-748c-4cf3-a8db-1b15fd3676c9)
+- [Apollo Graph Developer - Professional](https://www.apollographql.com/tutorials/certifications/5d21cdec-260c-4049-810e-aa13ed6a8655)
+- [FreeCodeCamp - Relational Database Certification](https://www.freecodecamp.org/certification/jlecompte/relational-database-v8)
