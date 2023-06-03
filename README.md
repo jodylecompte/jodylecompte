@@ -1,6 +1,6 @@
 # Hi, I'm Jody LeCompte!
 
-## About Me
+## 🙋 About Me
 
 I'm a Senior Software Engineer at Vincit USA, passionate about building accessible and robust software solutions. With a strong focus on full-stack development, I specialize in TypeScript, JavaScript, and PHP. I thrive on creating inclusive user experiences and writing clean, maintainable code.
 
@@ -8,7 +8,7 @@ I've been writing code as a hobby since 2003 and professionally since 2015.
 I am obsessed with creation and love figuring out the best way to solve
 a problem.
 
-## Tech Stack
+## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -20,7 +20,7 @@ a problem.
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## Blog Posts
+## 📝 Blog Posts
 
 I'd love for you to check out my latest blog posts. I'm super passionate about all things tech, and I enjoy
 writing about various topics such as software and web development, accessibility, machine learning, and even
@@ -35,7 +35,7 @@ of technology. Can't wait to hear what you think!
 - [Find Your Local Machine&#39;s IP Address](https://jodylecompte.com/articles/find-your-local-ip-address)
 <!-- BLOG-POST-LIST:END -->
 
-## Certifications
+## 📜 Certifications
 
 - [Apollo Graph Developer - Associate](https://www.apollographql.com/tutorials/certifications/53a3ba05-748c-4cf3-a8db-1b15fd3676c9)
 - [Apollo Graph Developer - Professional](https://www.apollographql.com/tutorials/certifications/5d21cdec-260c-4049-810e-aa13ed6a8655)
