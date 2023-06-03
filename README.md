@@ -4,11 +4,20 @@
 
 I'm a Senior Software Engineer at Vincit USA, passionate about building accessible and robust software solutions. With a strong focus on full-stack development, I specialize in TypeScript, JavaScript, and PHP. I thrive on creating inclusive user experiences and writing clean, maintainable code.
 
+I've been writing code as a hobby since 2003 and professionally since 2015.
+I am obsessed with creation and love figuring out the best way to solve
+a problem.
+
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![XState / Finite State Machines](https://img.shields.io/badge/-XState-05122A?style=flat&logo=xstate)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Blog Posts
@@ -19,6 +28,7 @@ game development. Feel free to dive into my recent posts and join me on this exc
 of technology. Can't wait to hear what you think!
 
 <!-- BLOG-POST-LIST:START -->
+
 - [My Journey with Web Accessibility](https://jodylecompte.com/articles/my-journey-with-web-accessibility)
 - [The CSS Box Model](https://jodylecompte.com/articles/css-box-model)
 - [Why Do Arrays Start at Zero?](https://jodylecompte.com/articles/why-arrays-start-at-zero)
