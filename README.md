@@ -17,6 +17,7 @@ a problem.
 ![XState / Finite State Machines](https://img.shields.io/badge/-XState-05122A?style=flat&logo=xstate)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
@@ -28,6 +29,7 @@ game development. Feel free to dive into my recent posts and join me on this exc
 of technology. Can't wait to hear what you think!
 
 <!-- BLOG-POST-LIST:START -->
+
 - [My Journey with Web Accessibility](https://jodylecompte.com/articles/my-journey-with-web-accessibility)
 - [The CSS Box Model](https://jodylecompte.com/articles/css-box-model)
 - [Why Do Arrays Start at Zero?](https://jodylecompte.com/articles/why-arrays-start-at-zero)
