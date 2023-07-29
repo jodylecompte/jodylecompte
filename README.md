@@ -2,7 +2,7 @@
 
 ## 🙋 About Me
 
-I'm a Senior Software Engineer at Vincit USA, passionate about building accessible and robust software solutions. With a strong focus on full-stack development, I specialize in TypeScript, JavaScript, and PHP. I thrive on creating inclusive user experiences and writing clean, maintainable code.
+I'm a Senior Full-Stack Engineer at Celebration Travel Group, passionate about building accessible and robust software solutions. With a strong focus on full-stack development, I specialize in TypeScript, JavaScript, and PHP. I thrive on creating inclusive user experiences and writing clean, maintainable code.
 
 I've been writing code as a hobby since 2003 and professionally since 2015.
 I am obsessed with creation and love figuring out the best way to solve
