@@ -29,11 +29,8 @@ game development. Feel free to dive into my recent posts and join me on this exc
 of technology. Can't wait to hear what you think!
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with Web Accessibility](https://jodylecompte.com/articles/my-journey-with-web-accessibility)
-- [The CSS Box Model](https://jodylecompte.com/articles/css-box-model)
-- [Why Do Arrays Start at Zero?](https://jodylecompte.com/articles/why-arrays-start-at-zero)
-- [The Unfair Standard for ChatGPT](https://jodylecompte.com/articles/the-unfair-standard-for-chatgpt)
-- [Find Your Local Machine&#39;s IP Address](https://jodylecompte.com/articles/find-your-local-ip-address)
+- [Improving Collaboration in a Remote Team](https://jodylecompte.com/articles/improving-remote-collaboration)
+- [Your Audience Wants  You To Win](https://jodylecompte.com/articles/your-audience-wants-you-to-win)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📜 Certifications
