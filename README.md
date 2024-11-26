@@ -41,4 +41,4 @@ of technology. Can't wait to hear what you think!
 
 ## 💬 Let's Connect!
 
-I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss the latest trends in technology. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/jodylecompte) or [Twitter](https://twitter.com/jody_lecompte).
+I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss the latest trends in technology. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/jodylecompte) or [Bluesky](https://bsky.app/profile/jodylecompte.com).
