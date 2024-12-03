@@ -33,12 +33,6 @@ of technology. Can't wait to hear what you think!
 - [Your Audience Wants  You To Win](https://jodylecompte.com/articles/your-audience-wants-you-to-win)
 <!-- BLOG-POST-LIST:END -->
 
-## 📜 Certifications
-
-- [Apollo Graph Developer - Associate](https://www.apollographql.com/tutorials/certifications/53a3ba05-748c-4cf3-a8db-1b15fd3676c9)
-- [Apollo Graph Developer - Professional](https://www.apollographql.com/tutorials/certifications/5d21cdec-260c-4049-810e-aa13ed6a8655)
-- [FreeCodeCamp - Relational Database Certification](https://www.freecodecamp.org/certification/jlecompte/relational-database-v8)
-
 ## 💬 Let's Connect!
 
 I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss the latest trends in technology. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/jodylecompte) or [Bluesky](https://bsky.app/profile/jodylecompte.com).
